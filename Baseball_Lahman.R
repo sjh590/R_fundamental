@@ -1,3 +1,5 @@
+#Source: HarvardX Data Science Professional Certificate Program
+
 library(Lahman)
 
 # linear regression with two variables
